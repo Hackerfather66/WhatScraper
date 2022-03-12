@@ -28,13 +28,13 @@ availabledom = ["pastebin",
                 "pasteio",
                 "paste2",
                 "paste"]
-site_urls = ["https://www.whatsapgrouplinks.com/",
-             "https://whatsgrouplink.com/",
-             "https://realgrouplinks.com/",
-             "https://appgrouplink.com/",
-             "https://whatsfunda.com/",
+site_urls = ["https://stackposts.com/blog/yahoo-boy-whatsapp-group-link-m-s-dhoni-hot-item-aunty",
+             "https://naijaonlineguide.com/whatsapp-group-links/?",
+             "https://www.smarttechbuzz.org/nigerian-whatsapp-group-links/?",
+             "https://www.newgrouplink.com/nigeria-whatsapp-group-links/?",
+             "https://wishthisyear.com/nigeria-girls-whatsapp-group-links/",
              "https://whatzgrouplink.com/latest-whatsapp-group-links/",
-             "https://allinonetrickz.com/new-whatsapp-groups-invite-links/"]
+             "https://microbeslab.com/nigeria-whatsapp-group-links"]
 
 
 def linkcheck(url):
