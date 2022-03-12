@@ -34,7 +34,7 @@ site_urls = ["https://stackposts.com/blog/yahoo-boy-whatsapp-group-link-m-s-dhon
              "https://www.newgrouplink.com/nigeria-whatsapp-group-links/?",
              "https://wishthisyear.com/nigeria-girls-whatsapp-group-links/",
              "https://whatzgrouplink.com/latest-whatsapp-group-links/",
-             "https://microbeslab.com/nigeria-whatsapp-group-links"]
+             "https://microbeslab.com/nigeria-whatsapp-group-links/"]
 
 
 def linkcheck(url):
