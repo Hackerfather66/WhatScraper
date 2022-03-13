@@ -29,11 +29,6 @@ availabledom = ["pastebin",
                 "paste2",
                 "paste"]
 site_urls = ["https://stackposts.com/blog/yahoo-boy-whatsapp-group-link-m-s-dhoni-hot-item-aunty",
-             "https://naijaonlineguide.com/whatsapp-group-links/?",
-             "https://www.smarttechbuzz.org/nigerian-whatsapp-group-links/?",
-             "https://www.newgrouplink.com/nigeria-whatsapp-group-links/?",
-             "https://wishthisyear.com/nigeria-girls-whatsapp-group-links/",
-             "https://whatzgrouplink.com/latest-whatsapp-group-links/",
              "https://microbeslab.com/nigeria-whatsapp-group-links/"]
 
 
