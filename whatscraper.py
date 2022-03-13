@@ -28,8 +28,7 @@ availabledom = ["pastebin",
                 "pasteio",
                 "paste2",
                 "paste"]
-site_urls = ["https://stackposts.com/blog/yahoo-boy-whatsapp-group-link-m-s-dhoni-hot-item-aunty",
-             "https://microbeslab.com/nigeria-whatsapp-group-links/"]
+site_urls = ["https://hustleupdate.com/latest-usa-whatsapp-group-link-to-join-join-1000-american-group/"]
 
 
 def linkcheck(url):
